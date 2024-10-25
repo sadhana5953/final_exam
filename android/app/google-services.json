@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031393190985",
+    "project_id": "exam-ed5dc",
+    "storage_bucket": "exam-ed5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031393190985:android:7bd1249336a565cf4fcb98",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVmkQWi0MkSaUgzD5z9w7dBmN-dYUwPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
