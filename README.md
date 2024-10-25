@@ -1,16 +1,7 @@
-# final_exam
+# Fitness Log App
+FitLife is an all-in-one fitness app designed to help you reach your health and wellness goals, whether you're a beginner or an athlete. With tailored workout routines, personalized meal plans, progress tracking, and motivation features, FitLife makes it easier to stay on top of your fitness journey.
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/a1df6574-cbad-411c-b552-bffe41e80332" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/ced59461-42b3-47ea-8916-859dd0837e36" height=35% width=22%>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
